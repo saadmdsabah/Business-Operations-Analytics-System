@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Bold';
+  src: url('../googlefonts/Inter/Inter_18pt-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Light';
+  src: url('../googlefonts/Inter/Inter_18pt-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Regular';
+  src: url('../googlefonts/Inter/Inter_18pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Medium';
+  src: url('../googlefonts/Inter/Inter_18pt-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Italics';
+  src: url('../googlefonts/Inter/Inter_28pt-Italic.ttf') format('truetype');
+}
